@@ -1,4 +1,4 @@
-# cascadeCircuit
+# Cascade Circuit
 A python code in development to analyze a component list of real and imaginary impedances, process the ABCD matrix, and output the relevant measurements for a frequency sweep. 
 
 # Completed
@@ -9,7 +9,7 @@ frequency sweep
 ordering components for matrix calculation
 matrix multiplication for shunt or series components
 
-# ToDo
+# To Do
 compare output methods
 sweep for impedances for each component with imaginary values(R,G,C,L)
 finish functions for output calculations
