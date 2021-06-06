@@ -11,7 +11,7 @@ A python code in development to analyze a component list of real and imaginary i
 
 ## To Do
 - compare output methods
-- sweep for impedances for each component with imaginary values(R,G,C,L)
+- sweep for impedances for each component with imaginary values (R,G,C,L)
 - finish functions for output calculations
 - output correct values with the desired formatting
 --> read which values are required from initial input file
